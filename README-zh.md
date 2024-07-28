@@ -6,7 +6,7 @@
 
 领英: https://www.linkedin.com/in/yujingdu/
 
-[![en](https://img.shields.io/badge/language-EN-green.svg)](https://github.com/YujingD2024/YujingD2024/blob/main/README)
+[![en](https://img.shields.io/badge/language-EN-green.svg)](https://github.com/YujingD2024/YujingD2024/blob/main/README.md)
 
 ### 职位
 
