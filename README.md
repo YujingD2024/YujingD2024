@@ -6,6 +6,8 @@ Email: yujingdu@seas.harvard.edu
 
 LinkedIn: https://www.linkedin.com/in/yujingdu/
 
+[![zh](https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87%E7%89%88-green.svg)](https://github.com/YujingD2024/YujingD2024/blob/main/README-zh.md)
+
 ### Positions
 
 My research group is recruiting two fully-funded Ph.D. students through Research Assistantships in the Department of Petroleum Engineering at the University of Tulsa. The expected start date is Fall 2025. Benefits include a monthly stipend, a full tuition waiver, and health and dental insurance coverage, per the policies of the university and the Department of Petroleum Engineering.
@@ -53,6 +55,7 @@ Multiphase flow, transport, phase change, and reactions in fractured and porous 
 ### The University
 
 The University of Tulsa (https://utulsa.edu/) is a prestigious private school located at the center of Tulsa, Oklahoma. Tulsa, also known as the “Oil Capital of the World”, is the second-most-populous city in Oklahoma. There is a one-hour drive to the capital of Oklahoma, Oklahoma City, and a four-hour drive to Dallas, Texas. The Arkansas River runs through the city center from the northwest to the southeast, flanked by parks, running trails, and visitor spots. With its long history, rich cultural heritage, and abundant natural scenery, Tulsa offers residents a vibrant city life, easy access to nature, and affordable living.
+
 The University of Tulsa’s petroleum engineering research program is a leader in its field. The program now encompasses a wide range of topics from traditional oil and gas production to emerging renewable energy technologies. The University of Tulsa boasts an international reputation and actively enhances its global impact by strengthening international collaborations. The University of Tulsa maintains strong connections with industries and businesses through its alumni networks. Its engineering departments, particularly, have robust collaborations and networks with the energy industry, providing excellent job opportunities.
 
 ### The Lab
