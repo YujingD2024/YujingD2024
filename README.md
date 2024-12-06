@@ -2,7 +2,7 @@
 
 Contact: Dr. Yujing Du
 
-Email: yujingdu@seas.harvard.edu
+Email: yuj0317@utulsa.edu / yujingdu@seas.harvard.edu
 
 LinkedIn: https://www.linkedin.com/in/yujingdu/
 
@@ -44,7 +44,7 @@ Multiphase flow, transport, phase change, and reactions in fractured and porous 
 
 7. Experience in computational fluid dynamics (CFD) simulation is a bonus
 
-### To apply, please email me (yujingdu@seas.harvard.edu) and send the following three materials
+### To apply, please email me (yuj0317@utulsa.edu) and send the following three materials
 
 1. CV or resume
 
