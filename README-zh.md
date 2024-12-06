@@ -2,7 +2,7 @@
 
 联系人: Dr. Yujing Du
 
-电子邮箱: yujingdu@seas.harvard.edu
+电子邮箱: yud0317@utulsa.edu / yujingdu@seas.harvard.edu
 
 领英: https://www.linkedin.com/in/yujingdu/
 
@@ -40,7 +40,7 @@
 
 ### 申请方式
 
-请发送电子邮件至 yujingdu@seas.harvard.edu，并提供以下材料：
+请发送电子邮件至 yuj0317@utulsa.edu，并提供以下材料：
 
 1. 简历
 2. 非正式成绩单
