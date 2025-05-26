@@ -1,4 +1,4 @@
-## 塔尔萨大学杜教授实验室招募 2025 年秋季入学的博士研究生
+# 塔尔萨大学杜教授实验室
 
 联系人: Dr. Yujing Du
 
@@ -8,13 +8,17 @@
 
 [![en](https://img.shields.io/badge/language-EN-green.svg)](https://github.com/YujingD2024/YujingD2024/blob/main/README.md)
 
+我们目前暂无开放的职位，但我们始终欢迎各层次的科研合作。
+
+## 研究方向
+
+多孔介质（如油气储层、地下水层、土壤、生物组织等）中微纳米尺度的流动，驱替，传质，反应，相变等机理的研究，水力压裂过程中裂缝扩展和裂缝中流动的物理机理，复杂流体和软物质在宏观和微观尺度下的流变性质等。相关的应用领域包括地下油气资源的开发，地热能利用，二氧化碳的地质封存，土壤污染物质的修复等。
+
+<!-- ## 招募 2025 年秋季入学的博士研究生
+
 ### 职位
 
 塔尔萨大学石油工程系杜老师实验室正在招募两名全奖的博士研究生（RA），预计入学时间为 2025 年秋季。福利包括每月津贴、全额学费减免以及健康保险和牙科保险，按照塔尔萨大学和石油工程系的政策执行。
-
-### 研究方向
-
-多孔介质（如油气储层、地下水层、土壤、生物组织等）中微纳米尺度的流动，驱替，传质，反应，相变等机理的研究，水力压裂过程中裂缝扩展和裂缝中流动的物理机理，复杂流体和软物质在宏观和微观尺度下的流变性质等。相关的应用领域包括地下油气资源的开发，地热能利用，二氧化碳的地质封存，土壤污染物质的修复等。
 
 ### 研究内容
 
@@ -44,15 +48,15 @@
 
 1. 简历
 2. 非正式成绩单
-3. 2 至 3 位推荐人的姓名和联系方式（电子邮件优先）
+3. 2 至 3 位推荐人的姓名和联系方式（电子邮件优先） -->
 
-### 塔尔萨大学介绍
+## 塔尔萨大学介绍
 
 The University of Tulsa (https://utulsa.edu/) is a prestigious private school located at the center of Tulsa, Oklahoma. Tulsa, also known as the “Oil Capital of the World”, is the second-most-populous city in Oklahoma. There is a one-hour drive to the capital of Oklahoma, Oklahoma City, and a four-hour drive to Dallas, Texas. The Arkansas River runs through the city center from the northwest to the southeast, flanked by parks, running trails, and visitor spots. With its long history, rich cultural heritage, and abundant natural scenery, Tulsa offers residents a vibrant city life, easy access to nature, and affordable living.
 
 The University of Tulsa’s petroleum engineering research program is a leader in its field. The program now encompasses a wide range of topics from traditional oil and gas production to emerging renewable energy technologies. The University of Tulsa boasts an international reputation and actively enhances its global impact by strengthening international collaborations. The University of Tulsa maintains strong connections with industries and businesses through its alumni networks. Its engineering departments, particularly, have robust collaborations and networks with the energy industry, providing excellent job opportunities.
 
-### 实验室介绍
+## 实验室介绍
 
 Dr. Yujing Du received a Ph.D. from the University of Texas at Austin in Petroleum and Geosystems Engineering in 2021, following an M.S. degree in the same department in 2016. Yujing earned a B.S. degree from Tsinghua University, Beijing, China, in Thermal Engineering (now named Energy and Power Engineering) in 2014. Dr. Du worked as a postdoctoral fellow in Applied Physics under the supervision of Dr. David Weitz at Harvard University before joining the University of Tulsa as an Assistant Processor in the Department of Petroleum Engineering in January 2025.
 
