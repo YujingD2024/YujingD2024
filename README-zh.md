@@ -4,9 +4,9 @@
 
 <p align="center"><strong>联系人：</strong>Dr. Yujing Du</p>
 
-<p align="center"><strong>电子邮箱：<a href="mailto:yujingdu@utulsa.edu">yujingdu@utulsa.edu</a></p>
+<p align="center"><strong>电子邮箱</strong>：<a href="mailto:yujingdu@utulsa.edu">yujingdu@utulsa.edu</a></p>
 
-<p align="center"><strong>LinkedIn：</strong>https://www.linkedin.com/in/yujingdu/</p>
+<p align="center"><strong>LinkedIn</strong>：</strong>https://www.linkedin.com/in/yujingdu/</p>
 
 [![English](https://img.shields.io/badge/language-EN-green.svg)](README.md)
 
