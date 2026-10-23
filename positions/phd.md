@@ -14,8 +14,6 @@ The Ph.D. position offers research opportunities across the laboratory’s resea
 
 Research activities will vary by project and may include:
 
-Ph.D. Position:
-
 1. Design and conduct experiments in natural and engineered porous and fractured materials and custom-fabricated analog models.
 2. Develop and operate experimental systems to investigate fluid flow, transport, fracture propagation, and material response.
 3. Perform high-speed imaging, microscopy, acoustic emission monitoring, and pressure and flow measurements to characterize dynamic processes.
