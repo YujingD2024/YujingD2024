@@ -6,13 +6,9 @@
 
 ## Open Positions
 
-The Fluid and Fracture Dynamics Laboratory (FFD Lab), led by Dr. Yujing Du in the Department of Petroleum Engineering at the University of Tulsa, is actively recruiting one fully funded Ph.D. student and one fully funded M.S.E. (Master of Science in Engineering) student starting Fall 2027.
-
 2. M.S.E. Position–Experimental Characterization of Extreme Materials
 
    The thesis-based M.S.E. position focuses on experimental investigations of fluid flow and transport through the embedded flow channels and surrounding porous structures of ceramic matrix composites (CMCs). The student will be supported through a Research Assistantship (RA) and will primarily conduct experimental research.
-
-Both positions are fully funded, with a monthly stipend, tuition coverage, and student health insurance in accordance with university policies and assistantship appointments.
 
 ## Responsibilities
 

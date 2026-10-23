@@ -6,13 +6,9 @@
 
 ## 招生岗位
 
-美国塔尔萨大学（University of Tulsa）石油工程系杜教授主持的流体与裂缝动力学实验室（Fluid and Fracture Dynamics Laboratory，FFD Lab）现招收2027年秋季入学的全额资助博士生和研究型工程硕士生各1名。
-
 2. 硕士研究生—极端环境材料实验表征
 
    该岗位为研究型工程硕士（Master of Science in Engineering，M.S.E.），主要研究陶瓷基复合材料（Ceramic Matrix Composites，CMCs）内部流道网络及多孔区域中的流体流动与输运。研究以实验为主，学生通过科研助理（RA）岗位获得资助。
-
-两个岗位均为全额资助，提供每月生活津贴、全额学费减免和学生医疗保险，具体以学校政策和规定为准。
 
 ## 研究内容
 
