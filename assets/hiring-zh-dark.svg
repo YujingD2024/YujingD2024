@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">全额资助研究生岗位</title>
+  <desc id="desc">塔尔萨大学流体与裂缝动力学实验室2027年秋季博士及硕士招生</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#102A40"/><stop offset="1" stop-color="#07131F"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#B9974B"/><stop offset="1" stop-color="#F0D98D"/></linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)" stroke="#315875"/>
+  <circle cx="1080" cy="42" r="120" fill="#397895" opacity=".2" filter="url(#soft)"/>
+  <circle cx="90" cy="278" r="105" fill="#D5B65F" opacity=".13" filter="url(#soft)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M0 238 C130 175 215 274 342 205 S555 133 690 194 S922 254 1200 132" stroke="#75BCD4" stroke-width="3" opacity=".42"/>
+    <path d="M0 256 C145 193 236 286 355 223 S570 151 704 211 S944 266 1200 155" stroke="#E3CB7B" stroke-width="2" opacity=".6"/>
+    <path d="M935 0 L897 54 L924 86 L875 135 L901 174 L852 230 L869 300" stroke="url(#gold)" stroke-width="4" opacity=".85"/>
+    <g stroke="#D8EDF5" opacity=".3"><circle cx="1010" cy="210" r="10"/><circle cx="1060" cy="185" r="7"/><circle cx="1105" cy="225" r="12"/><circle cx="1148" cy="190" r="8"/><path d="M1018 206 L1054 188 M1067 190 L1095 219 M1117 219 L1141 195"/></g>
+  </g>
+  <rect x="78" y="55" width="188" height="32" rx="16" fill="#D8BC6A"/>
+  <text x="172" y="77" text-anchor="middle" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#07131F">2027 年秋季</text>
+  <text x="78" y="150" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="48" font-weight="700" letter-spacing="2" fill="#FFFFFF">全额资助研究生岗位</text>
+  <text x="80" y="205" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="21" letter-spacing="1" fill="#D8EDF5">塔尔萨大学 · 流体与裂缝动力学实验室</text>
+  <text x="1122" y="269" text-anchor="end" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" fill="#F0D98D">博士  ·  硕士</text>
+</svg>

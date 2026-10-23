@@ -1,61 +1,50 @@
-# 塔尔萨大学杜教授实验室招募 2026 年秋季入学的博士研究生
+<h1 align="center">塔尔萨大学杜教授实验室招收全奖硕士、博士研究生</h1>
 
-联系人: Dr. Yujing Du
+<h2 align="center">2027年秋季入学｜美国塔尔萨大学</h2>
 
-电子邮箱: yujingdu@utulsa.edu
+<p align="center"><strong>联系人：</strong>Dr. Yujing Du</p>
 
-领英: https://www.linkedin.com/in/yujingdu/
+<p align="center"><strong>电子邮箱：</strong>yujingdu@utulsa.edu</p>
 
-[![en](https://img.shields.io/badge/language-EN-green.svg)](https://github.com/YujingD2024/YujingD2024/blob/main/README.md)
+<p align="center"><strong>LinkedIn：</strong>https://www.linkedin.com/in/yujingdu/</p>
 
-### 职位概括:
+[![English](https://img.shields.io/badge/language-EN-green.svg)](README.md)
 
-塔尔萨大学石油工程系杜老师实验室（Fluid and Fracture Dynamics Laboratory） 现招收 1 名全额资助博士研究生，入学时间为 2026 年秋季。资助方式包括科研助理（RA）或教学助理（TA），奖学金包括每月生活津贴，全额学费减免，以及健康与牙科保险，具体标准依照学校及石油工程系政策执行。
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hiring-zh-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hiring-zh-light.svg">
+  <img alt="2027年秋季全额资助博士及硕士岗位" src="assets/hiring-zh-light.svg">
+</picture>
 
-## 研究方向:
+## 招生岗位
 
-水力压裂过程中的裂缝扩展和流动，多孔介质和裂缝中的（如油气储层、地下水层、土壤、生物组织等）多相流流动和反应，复杂流体与软物质的流变学（如聚合物、凝胶、泡沫、胶体悬浮液等）。应用领域包括地下油气资源的开发，地热能利用，地球矿物质的开发利用等。
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<h3>博士研究生</h3>
+<p>流体与裂缝动力学</p>
+<a href="positions/phd-zh.md"><img alt="查看博士岗位" src="https://img.shields.io/badge/查看岗位-博士研究生-0B3D68?style=for-the-badge"></a>
+</td>
+<td width="50%" align="center">
+<h3>硕士研究生</h3>
+<p>极端环境材料实验表征</p>
+<a href="positions/mse-zh.md"><img alt="查看硕士岗位" src="https://img.shields.io/badge/查看岗位-硕士研究生-A88932?style=for-the-badge"></a>
+</td>
+</tr>
+</table>
 
-### 研究内容:
+## 研究方向
 
-1. 天然和人工合成的多孔介质模型系统中的实验和模拟
-2. 基于可视化的实验、测量、数据与动力学分析
-3. 测量和分析聚合物、泡沫、凝胶和悬浮液等复杂流体在宏观相和微纳米体系中的流变、界面和声学等性质
+实验室主要研究天然及人工多孔介质与裂缝体系中的流体驱动裂缝扩展、多相流动与输运、相变和反应过程，研究对象包括岩石、土壤及工程多孔材料等。同时，实验室关注聚合物、凝胶、泡沫、胶体悬浮液等复杂流体与软物质的流变和界面行为，以及面向极端工况的工程材料中的流体输运。相关研究面向油气开发、地热能利用、碳封存、环境修复及关键矿产资源回收等领域。
 
-### 职业发展:
+## 塔尔萨大学介绍
 
-1. 在美国高校及工业界的暑期实习机会
-2. 高校与国家实验室的科研/学术岗位
-3. 油气、地热及能源相关行业职位
+<p>塔尔萨大学（The University of Tulsa，https://utulsa.edu/）位于美国俄克拉荷马州塔尔萨市，是一所私立大学。塔尔萨曾被誉为“世界石油之都”（Oil Capital of the World），城市生活便利，生活成本相对适中，拥有丰富的文化活动及阿肯色河沿岸的户外休闲场所。</p>
 
-### 要求:
+塔尔萨大学石油工程专业在国际上享有良好声誉，研究涵盖油气开发、地热能源及碳封存等领域。学校与能源企业保持紧密合作，并拥有遍布全球的校友网络，为学生提供科研合作与职业发展的机会。
 
-1. 工程、理学或相关专业学士或硕士学位（GPA ≥ 3.0/4.0 或 80/100）
-2. 语成绩：TOEFL > 80 或 IELTS > 6.5（GRE 建议提交，可酌情豁免）
+## 实验室介绍
 
-3. 具备良好的写作与沟通能力，乐于团队合作
-4. 对科研有高度的积极性与责任心
-5. 以下背景将被优先考虑（非必需）：
-   a. 微纳加工、微流控、显微成像经验
-   b. 粒子图像测速（PIV）、3D 打印经验
-   c. 计算流体力学（CFD）仿真经验
+杜教授于2014年本科毕业于清华大学热能工程专业，2016年和2021年分别获得美国德克萨斯大学奥斯汀分校（University of Texas at Austin）石油与地质系统工程硕士和博士学位。此后，在哈佛大学David Weitz教授课题组从事应用物理博士后研究。2025年1月加入塔尔萨大学石油工程系，任助理教授（Assistant Professor）。
 
-### 申请方式:
-
-请发送电子邮件至 yujingdu@utulsa.edu，并提供以下材料：
-
-1. 简历
-2. 非正式成绩单
-3. 2 至 3 位推荐人的姓名和联系方式（电子邮件优先）
-
-## 塔尔萨大学介绍:
-
-The University of Tulsa (https://utulsa.edu/) is a nationally recognized private university located in Tulsa, Oklahoma, historically known as the “Oil Capital of the World.” Tulsa combines a vibrant urban life with affordable living, rich cultural heritage, and abundant outdoor recreation along the Arkansas River.
-
-The Petroleum Engineering program at TU is internationally renowned, with research spanning traditional oil and gas recovery to emerging renewable energy technologies. Strong industry partnerships and a global alumni network provide excellent career opportunities for graduates.
-
-## 实验室介绍:
-
-Dr. Yujing Du earned a B.S. from Tsinghua University (2014), an M.S. (2016) and Ph.D. (2021) in Petroleum and Geosystems Engineering from the University of Texas at Austin and completed a postdoctoral fellowship in Applied Physics at Harvard University under Dr. David Weitz. Dr. Du joined TU as an Assistant Professor in January 2025.
-
-The Fluid and Fracture Dynamics Laboratory (Dr. Du’s lab) explores the fundamental physics of flow, transport, and reactions in porous and fractured media, with particular emphasis on hydraulic fracturing, rheology of complex fluids, interfacial phenomena, and phase behaviors in confined environments. By investigating processes at the micro- and nanoscale, the group aims to advance sustainable energy and resource recovery strategies for a more environmentally responsible future.
+流体与裂缝动力学实验室（Fluid and Fracture Dynamics Laboratory，FFD Lab）致力于探索多孔介质与裂缝体系中的流体驱动断裂、多相流动、颗粒输运及反应过程，重点研究裂缝扩展与流动的相互作用、复杂流体流变学、界面现象和受限空间中的相行为。通过可控实验、可视化观测和跨尺度定量分析，实验室旨在揭示相关物理机制，为油气开发、地热能利用、碳封存和关键矿产资源回收等提供科学基础。

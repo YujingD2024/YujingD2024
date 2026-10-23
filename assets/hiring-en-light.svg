@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Fully Funded Graduate Positions</title>
+  <desc id="desc">Fall 2027 PhD and MSE opportunities at the Fluid and Fracture Dynamics Laboratory</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071B2E"/>
+      <stop offset="1" stop-color="#123D5A"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#B9974B"/>
+      <stop offset="1" stop-color="#E2C97A"/>
+    </linearGradient>
+    <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#bg)"/>
+  <circle cx="1080" cy="42" r="120" fill="#2F6F8F" opacity=".18" filter="url(#soft)"/>
+  <circle cx="90" cy="278" r="105" fill="#C6A85B" opacity=".12" filter="url(#soft)"/>
+  <g fill="none" stroke-linecap="round">
+    <path d="M0 238 C130 175 215 274 342 205 S555 133 690 194 S922 254 1200 132" stroke="#68A8BF" stroke-width="3" opacity=".36"/>
+    <path d="M0 256 C145 193 236 286 355 223 S570 151 704 211 S944 266 1200 155" stroke="#D8BF73" stroke-width="2" opacity=".52"/>
+    <path d="M935 0 L897 54 L924 86 L875 135 L901 174 L852 230 L869 300" stroke="url(#gold)" stroke-width="4" opacity=".75"/>
+    <g stroke="#CDE4ED" opacity=".22">
+      <circle cx="1010" cy="210" r="10"/><circle cx="1060" cy="185" r="7"/><circle cx="1105" cy="225" r="12"/><circle cx="1148" cy="190" r="8"/>
+      <path d="M1018 206 L1054 188 M1067 190 L1095 219 M1117 219 L1141 195"/>
+    </g>
+  </g>
+  <rect x="78" y="55" width="188" height="32" rx="16" fill="#D0B463"/>
+  <text x="172" y="77" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#071B2E">FALL 2027</text>
+  <text x="78" y="139" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="1" fill="#FFFFFF">FULLY FUNDED</text>
+  <text x="78" y="188" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="300" letter-spacing="1" fill="#FFFFFF">GRADUATE POSITIONS</text>
+  <text x="80" y="229" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing=".6" fill="#CDE4ED">Fluid and Fracture Dynamics Laboratory · University of Tulsa</text>
+  <text x="1122" y="269" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" fill="#E2C97A">PH.D.  ·  M.S.E.</text>
+</svg>
