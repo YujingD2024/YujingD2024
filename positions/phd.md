@@ -22,11 +22,11 @@ Ph.D. Position:
 4. Characterize the rheological and interfacial properties of complex fluids and the mechanical and acoustic responses of materials.
 5. Analyze experimental data, identify governing physical mechanisms, and develop quantitative relationships and predictive models.
 
-Both students are expected to participate in research discussions, maintain accurate experimental records, present research findings, and contribute to scientific publications.
+The student is expected to participate in research discussions, maintain accurate experimental records, present research findings, and contribute to scientific publications.
 
 ## Career opportunities
 
-Students will receive interdisciplinary research training, hands-on experience with advanced experimental techniques, and professional development. The training and research experience can support various academic and industry career pathways, including:
+The student will receive interdisciplinary research training, hands-on experience with advanced experimental techniques, and professional development. The training and research experience can support various academic and industry career pathways, including:
 
 1. Academic and research careers at universities and national laboratories.
 2. Opportunities for summer internships and research collaborations in academic, national laboratory, and industry settings.
@@ -57,7 +57,7 @@ Applicants with experience in one or more of the following areas are particularl
 
 ## How to Apply
 
-<p>Interested applicants should email Dr. Yujing Du at yujingdu@utulsa.edu, indicating whether they are applying for the Ph.D. or M.S.E. position. Please briefly introduce your academic background, research experience, and interests in the email and attach the following materials:</p>
+<p>Interested applicants should email Dr. Yujing Du at yujingdu@utulsa.edu, indicating that they are applying for the Ph.D. position. Please briefly introduce your academic background, research experience, and interests in the email and attach the following materials:</p>
 
 1. CV or resume
 2. Unofficial academic transcripts
