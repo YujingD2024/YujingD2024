@@ -6,11 +6,12 @@
 
 <p align="center"><strong>电子邮箱</strong>：<a href="mailto:yujingdu@utulsa.edu">yujingdu@utulsa.edu</a></p>
 
-<p align="center"><strong>LinkedIn</strong>：</strong>https://www.linkedin.com/in/yujingdu/</p>
+<p align="center"><strong>LinkedIn</strong>：https://www.linkedin.com/in/yujingdu/</p>
 
 [![English](https://img.shields.io/badge/language-EN-green.svg)](README.md)
 
 <picture>
+  <source media="(max-width: 600px)" srcset="assets/hiring-zh-mobile.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hiring-zh-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/hiring-zh-light.svg">
   <img alt="2027年秋季全额资助博士及硕士岗位" src="assets/hiring-zh-light.svg">
@@ -20,9 +21,19 @@
 
 美国塔尔萨大学（University of Tulsa）石油工程系杜教授主持的流体与裂缝动力学实验室（Fluid and Fracture Dynamics Laboratory，FFD Lab）现招收2027年秋季入学的全额资助博士生和研究型工程硕士生各1名。
 
-<a href="positions/phd-zh.md"><img width="100%" alt="博士研究生流体与裂缝动力学岗位" src="assets/card-phd-zh.svg"></a>
+### 🎓 博士研究生岗位
 
-<a href="positions/mse-zh.md"><img width="100%" alt="硕士研究生极端环境材料实验表征岗位" src="assets/card-mse-zh.svg"></a>
+**流体与裂缝动力学**
+
+[查看岗位 →](positions/phd-zh.md)
+
+---
+
+### 🔬 硕士研究生岗位
+
+**极端环境材料实验表征**
+
+[查看岗位 →](positions/mse-zh.md)
 
 两个岗位均为全额资助，提供每月生活津贴、全额学费减免和学生医疗保险，具体以学校政策和规定为准。
 

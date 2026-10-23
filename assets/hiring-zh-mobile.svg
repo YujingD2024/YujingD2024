@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">全额资助研究生岗位</title><desc id="desc">塔尔萨大学流体与裂缝动力学实验室2027年秋季博士及硕士招生</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071B2E"/><stop offset="1" stop-color="#164B68"/></linearGradient><linearGradient id="gold"><stop stop-color="#B9974B"/><stop offset="1" stop-color="#E2C97A"/></linearGradient></defs>
+  <rect width="720" height="400" rx="24" fill="url(#bg)"/>
+  <path d="M570 0 L532 58 L562 96 L516 151 L545 202 L496 266 L520 400" fill="none" stroke="url(#gold)" stroke-width="5" opacity=".78"/>
+  <path d="M0 328 C120 260 220 365 350 304 S565 226 720 270" fill="none" stroke="#6FB0C7" stroke-width="4" opacity=".48"/>
+  <rect x="48" y="42" width="210" height="44" rx="22" fill="#D5B966"/><text x="153" y="72" text-anchor="middle" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#071B2E">2027 年秋季</text>
+  <text x="48" y="164" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="53" font-weight="700" fill="#FFFFFF">全额资助</text>
+  <text x="48" y="229" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="53" font-weight="700" fill="#FFFFFF">研究生岗位</text>
+  <text x="49" y="290" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="30" fill="#D2E8F0">流体与裂缝动力学实验室</text>
+  <text x="49" y="362" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="26" font-weight="700" letter-spacing="1.5" fill="#E8D28A">博士  ·  硕士  ·  美国塔尔萨大学</text>
+</svg>

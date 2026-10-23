@@ -16,9 +16,9 @@
     <g stroke="#D8EDF5" opacity=".3"><circle cx="1010" cy="210" r="10"/><circle cx="1060" cy="185" r="7"/><circle cx="1105" cy="225" r="12"/><circle cx="1148" cy="190" r="8"/><path d="M1018 206 L1054 188 M1067 190 L1095 219 M1117 219 L1141 195"/></g>
   </g>
   <rect x="78" y="55" width="188" height="32" rx="16" fill="#D8BC6A"/>
-  <text x="172" y="77" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#07131F">FALL 2027</text>
-  <text x="78" y="139" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" letter-spacing="1" fill="#FFFFFF">FULLY FUNDED</text>
-  <text x="78" y="188" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="300" letter-spacing="1" fill="#FFFFFF">GRADUATE POSITIONS</text>
-  <text x="80" y="229" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing=".6" fill="#D8EDF5">Fluid and Fracture Dynamics Laboratory · University of Tulsa</text>
-  <text x="1122" y="269" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" fill="#F0D98D">PH.D.  ·  M.S.E.</text>
+  <text x="172" y="77" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#07131F">FALL 2027</text>
+  <text x="78" y="139" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1" fill="#FFFFFF">FULLY FUNDED</text>
+  <text x="78" y="190" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="300" letter-spacing="1" fill="#FFFFFF">GRADUATE POSITIONS</text>
+  <text x="80" y="235" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing=".6" fill="#D8EDF5">Fluid and Fracture Dynamics Laboratory · University of Tulsa</text>
+  <text x="1122" y="274" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="1.5" fill="#F0D98D">PH.D.  ·  M.S.E.</text>
 </svg>

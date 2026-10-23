@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="400" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Fully Funded Graduate Positions</title><desc id="desc">Fall 2027 PhD and MSE opportunities at the Fluid and Fracture Dynamics Laboratory</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071B2E"/><stop offset="1" stop-color="#164B68"/></linearGradient><linearGradient id="gold"><stop stop-color="#B9974B"/><stop offset="1" stop-color="#E2C97A"/></linearGradient></defs>
+  <rect width="720" height="400" rx="24" fill="url(#bg)"/>
+  <path d="M570 0 L532 58 L562 96 L516 151 L545 202 L496 266 L520 400" fill="none" stroke="url(#gold)" stroke-width="5" opacity=".78"/>
+  <path d="M0 328 C120 260 220 365 350 304 S565 226 720 270" fill="none" stroke="#6FB0C7" stroke-width="4" opacity=".48"/>
+  <rect x="48" y="42" width="210" height="44" rx="22" fill="#D5B966"/><text x="153" y="72" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="#071B2E">FALL 2027</text>
+  <text x="48" y="148" font-family="Arial, sans-serif" font-size="47" font-weight="700" fill="#FFFFFF">FULLY FUNDED</text>
+  <text x="48" y="203" font-family="Arial, sans-serif" font-size="43" font-weight="300" fill="#FFFFFF">GRADUATE</text>
+  <text x="48" y="253" font-family="Arial, sans-serif" font-size="43" font-weight="300" fill="#FFFFFF">POSITIONS</text>
+  <text x="49" y="300" font-family="Arial, sans-serif" font-size="27" fill="#D2E8F0">Fluid and Fracture Dynamics Laboratory</text>
+  <text x="49" y="362" font-family="Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="1" fill="#E8D28A">PH.D.  ·  M.S.E.  ·  UNIVERSITY OF TULSA</text>
+</svg>

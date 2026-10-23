@@ -16,8 +16,8 @@
     <g stroke="#CDE4ED" opacity=".22"><circle cx="1010" cy="210" r="10"/><circle cx="1060" cy="185" r="7"/><circle cx="1105" cy="225" r="12"/><circle cx="1148" cy="190" r="8"/><path d="M1018 206 L1054 188 M1067 190 L1095 219 M1117 219 L1141 195"/></g>
   </g>
   <rect x="78" y="55" width="188" height="32" rx="16" fill="#D0B463"/>
-  <text x="172" y="77" text-anchor="middle" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="700" letter-spacing="2" fill="#071B2E">2027 年秋季</text>
-  <text x="78" y="150" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="48" font-weight="700" letter-spacing="2" fill="#FFFFFF">全额资助研究生岗位</text>
-  <text x="80" y="205" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="21" letter-spacing="1" fill="#CDE4ED">塔尔萨大学 · 流体与裂缝动力学实验室</text>
-  <text x="1122" y="269" text-anchor="end" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="17" font-weight="700" letter-spacing="1.5" fill="#E2C97A">博士  ·  硕士</text>
+  <text x="172" y="77" text-anchor="middle" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="18" font-weight="700" letter-spacing="2" fill="#071B2E">2027 年秋季</text>
+  <text x="78" y="153" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="56" font-weight="700" letter-spacing="2" fill="#FFFFFF">全额资助研究生岗位</text>
+  <text x="80" y="215" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="27" letter-spacing="1" fill="#CDE4ED">塔尔萨大学 · 流体与裂缝动力学实验室</text>
+  <text x="1122" y="274" text-anchor="end" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="22" font-weight="700" letter-spacing="1.5" fill="#E2C97A">博士  ·  硕士</text>
 </svg>
