@@ -18,20 +18,9 @@
 
 ## 招生岗位
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<h3>博士研究生</h3>
-<p>流体与裂缝动力学</p>
-<a href="positions/phd-zh.md"><img alt="查看博士岗位" src="https://img.shields.io/badge/查看岗位-博士研究生-0B3D68?style=for-the-badge"></a>
-</td>
-<td width="50%" align="center">
-<h3>硕士研究生</h3>
-<p>极端环境材料实验表征</p>
-<a href="positions/mse-zh.md"><img alt="查看硕士岗位" src="https://img.shields.io/badge/查看岗位-硕士研究生-A88932?style=for-the-badge"></a>
-</td>
-</tr>
-</table>
+<a href="positions/phd-zh.md"><img width="100%" alt="博士研究生流体与裂缝动力学岗位" src="assets/card-phd-zh.svg"></a>
+
+<a href="positions/mse-zh.md"><img width="100%" alt="硕士研究生极端环境材料实验表征岗位" src="assets/card-mse-zh.svg"></a>
 
 ## 研究方向
 

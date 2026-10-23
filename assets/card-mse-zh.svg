@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150" role="img" aria-labelledby="title desc">
+  <title id="title">硕士研究生岗位</title><desc id="desc">极端环境材料实验表征</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#342C19"/><stop offset="1" stop-color="#725C28"/></linearGradient><pattern id="pores" width="42" height="42" patternUnits="userSpaceOnUse"><circle cx="8" cy="10" r="4" fill="#F3DE98" opacity=".18"/><circle cx="30" cy="29" r="7" fill="none" stroke="#F3DE98" opacity=".16"/></pattern></defs>
+  <rect width="1200" height="150" rx="18" fill="url(#bg)"/><rect x="760" width="440" height="150" rx="18" fill="url(#pores)"/>
+  <path d="M840 0 C890 35 867 65 925 82 S1020 89 1062 150" fill="none" stroke="#E7CC78" stroke-width="4" opacity=".62"/>
+  <text x="54" y="68" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="40" font-weight="700" letter-spacing="1" fill="#FFFFFF">硕士研究生岗位</text>
+  <rect x="54" y="86" width="275" height="30" rx="15" fill="#E0C46D"/><text x="191.5" y="107" text-anchor="middle" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="15" font-weight="700" letter-spacing="1" fill="#29210F">极端环境材料实验表征</text>
+  <text x="1138" y="117" text-anchor="end" font-family="Arial, 'PingFang SC', 'Microsoft YaHei', sans-serif" font-size="16" font-weight="700" letter-spacing="1" fill="#F4DE91">查看岗位  →</text>
+</svg>

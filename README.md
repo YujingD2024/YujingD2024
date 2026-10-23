@@ -18,20 +18,9 @@
 
 ## Open Positions
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-<h3>Ph.D. Position</h3>
-<p>Fluid and Fracture Dynamics</p>
-<a href="positions/phd.md"><img alt="View Ph.D. Position" src="https://img.shields.io/badge/VIEW_POSITION-Ph.D.-0B3D68?style=for-the-badge"></a>
-</td>
-<td width="50%" align="center">
-<h3>M.S.E. Position</h3>
-<p>Experimental Characterization of Extreme Materials</p>
-<a href="positions/mse.md"><img alt="View M.S.E. Position" src="https://img.shields.io/badge/VIEW_POSITION-M.S.E.-A88932?style=for-the-badge"></a>
-</td>
-</tr>
-</table>
+<a href="positions/phd.md"><img width="100%" alt="Ph.D. Position in Fluid and Fracture Dynamics" src="assets/card-phd-en.svg"></a>
+
+<a href="positions/mse.md"><img width="100%" alt="M.S.E. Position in Experimental Characterization of Extreme Materials" src="assets/card-mse-en.svg"></a>
 
 ## Research directions
 
