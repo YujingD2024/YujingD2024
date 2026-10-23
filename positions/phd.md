@@ -1,4 +1,4 @@
-# Ph.D. Position–Fluid and Fracture Dynamics
+# Ph.D. Position–Fluid and Fracture Dynamics:
 
 [![中文](https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87%E7%89%88-green.svg)](phd-zh.md)
 
