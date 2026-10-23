@@ -4,11 +4,11 @@
 
 [Back to Open Graduate Positions](../README.md)
 
-## Open Positions
+## Open Position
 
-1. Ph.D. Position–Fluid and Fracture Dynamics
+Ph.D. Position–Fluid and Fracture Dynamics
 
-   The Ph.D. position offers research opportunities across the laboratory’s research areas, with projects tailored to the student’s background and interests. Funding is available through Research Assistantships (RA) and Teaching Assistantships (TA).
+The Ph.D. position offers research opportunities across the laboratory’s research areas, with projects tailored to the student’s background and interests. Funding is available through Research Assistantships (RA) and Teaching Assistantships (TA).
 
 ## Responsibilities
 

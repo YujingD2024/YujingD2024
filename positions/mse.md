@@ -4,11 +4,11 @@
 
 [Back to Open Graduate Positions](../README.md)
 
-## Open Positions
+## Open Position
 
-2. M.S.E. Position–Experimental Characterization of Extreme Materials
+M.S.E. Position–Experimental Characterization of Extreme Materials
 
-   The thesis-based M.S.E. position focuses on experimental investigations of fluid flow and transport through the embedded flow channels and surrounding porous structures of ceramic matrix composites (CMCs). The student will be supported through a Research Assistantship (RA) and will primarily conduct experimental research.
+The thesis-based M.S.E. position focuses on experimental investigations of fluid flow and transport through the embedded flow channels and surrounding porous structures of ceramic matrix composites (CMCs). The student will be supported through a Research Assistantship (RA) and will primarily conduct experimental research.
 
 ## Responsibilities
 

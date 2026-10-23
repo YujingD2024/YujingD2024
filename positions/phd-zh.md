@@ -6,9 +6,9 @@
 
 ## 招生岗位
 
-1. 博士研究生—流体与裂缝动力学
+博士研究生—流体与裂缝动力学
 
-   博士研究课题涵盖实验室多个研究方向，可结合学生的专业背景、科研兴趣及课题组项目确定。博士生通过科研助理（Research Assistantship，RA）和/或教学助理（Teaching Assistantship，TA）岗位获得资助。
+博士研究课题涵盖实验室多个研究方向，可结合学生的专业背景、科研兴趣及课题组项目确定。博士生通过科研助理（Research Assistantship，RA）和/或教学助理（Teaching Assistantship，TA）岗位获得资助。
 
 ## 研究内容
 

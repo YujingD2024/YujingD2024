@@ -6,9 +6,9 @@
 
 ## 招生岗位
 
-2. 硕士研究生—极端环境材料实验表征
+硕士研究生—极端环境材料实验表征
 
-   该岗位为研究型工程硕士（Master of Science in Engineering，M.S.E.），主要研究陶瓷基复合材料（Ceramic Matrix Composites，CMCs）内部流道网络及多孔区域中的流体流动与输运。研究以实验为主，学生通过科研助理（RA）岗位获得资助。
+该岗位为研究型工程硕士（Master of Science in Engineering，M.S.E.），主要研究陶瓷基复合材料（Ceramic Matrix Composites，CMCs）内部流道网络及多孔区域中的流体流动与输运。研究以实验为主，学生通过科研助理（RA）岗位获得资助。
 
 ## 研究内容
 
