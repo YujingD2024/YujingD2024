@@ -14,8 +14,6 @@ The thesis-based M.S.E. position focuses on experimental investigations of fluid
 
 Research activities will vary by project and may include:
 
-M.S.E. Position:
-
 1. Prepare material samples and fabricate transparent model systems representing the embedded flow channels and porous structures of ceramic matrix composites (CMCs).
 2. Conduct flow visualization and pressure–flow measurements to characterize fluid transport through internal channel networks and surrounding porous regions in CMCs.
 3. Analyze experimental data to evaluate the effects of CMC channel geometry, connectivity, and porosity on flow distribution and transport behavior.
