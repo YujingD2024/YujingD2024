@@ -20,7 +20,7 @@ Research activities will vary by project and may include:
 
 The student is expected to participate in research discussions, maintain accurate experimental records, present research findings, and contribute to scientific publications.
 
-## Career opportunities
+## Career Opportunities
 
 The student will receive interdisciplinary research training, hands-on experience with advanced experimental techniques, and professional development. The training and research experience can support various academic and industry career pathways, including:
 
