@@ -37,7 +37,7 @@ The Fluid and Fracture Dynamics Laboratory (FFD Lab), led by Dr. Yujing Du in th
 
 Both positions are fully funded, with a monthly stipend, tuition coverage, and student health insurance in accordance with university policies and assistantship appointments.
 
-## Research directions
+## Research Directions
 
 Our group investigates fluid-driven fracture mechanics, multiphase flow and transport, phase change, and reactive processes in natural and engineered porous and fractured media (including rocks, soils, biological tissues, and engineered composites). We also study the rheology and interfacial behavior of complex fluids and soft materials, including polymers, gels, foams, and colloidal suspensions, as well as fluid transport in materials designed for extreme environments. Applications include hydrocarbon recovery, geothermal energy, carbon storage, environmental remediation, critical mineral recovery, and advanced materials.
 
